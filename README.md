@@ -35,7 +35,7 @@
 6. Inicie a automação
    - Pressione a tecla de atalho escolhida para ativar o AutoCupom.
 
-## Por que isso é importante?
+## Por que a sequência de janelas é importante?
 O AutoCupom utiliza o atalho Alt + Tab para alternar automaticamente entre as janelas. Por isso, manter as janelas separadas e na mesma sequência garante que o processo funcione corretamente.
 
 ## Tecnologias Utilizadas
@@ -44,4 +44,3 @@ O AutoCupom utiliza o atalho Alt + Tab para alternar automaticamente entre as ja
 
 ## Licença
 Este projeto é de uso pessoal e não possui fins lucrativos. O uso do software é de responsabilidade do usuário.
-Desenvolvido por: Guilhermetti (Pixell)
